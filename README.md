@@ -1,5 +1,10 @@
 # Analyse-des-leviers-de-r-novation-nerg-tique-DPE-
-Identifier les variables prioritaires en cas de rénovation énergétique afin d’augmenter la probabilité d’atteindre les classes DPE A et B
+
+Analyse des leviers de rénovation énergétique (DPE)
+**Objectif**
+
+Identifier les variables prioritaires en cas de rénovation énergétique afin d’augmenter la probabilité d’atteindre les classes DPE A et B.
+
 **Données utilisées**
 
 Base publique DPE
@@ -54,6 +59,6 @@ DuckDB
 
 **Structure du projet**
 
-/notebooks : analyses complètes
+notebooks : analyses complètes
 
-/presentation : support de présentation
+presentation : support de présentation
